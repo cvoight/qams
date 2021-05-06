@@ -9,7 +9,7 @@
  * be found at:
  * https://docs.google.com/spreadsheets/d/16tlqgO5As9mKEj1t-89SmVSMg_vRPW-CliCMTA7TQTE/edit#gid=564996451
  * Author: Cody Voight
- * Version: 0.99
+ * Version: 0.9.9-gamma1
  * ***************************************************************************/
 
 function onOpen(e) {
